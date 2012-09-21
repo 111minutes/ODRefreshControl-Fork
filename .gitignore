@@ -7,3 +7,5 @@
 *.pbxuser
 *.perspectivev3
 *.xcuserdatad
+
+/Demo/DerivedData/
